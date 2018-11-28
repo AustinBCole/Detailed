@@ -1,4 +1,4 @@
-1. When you click on a table cell and it takes you to another screen with details about whatever was contained in the cells, you have been sent to the detail view controller. The detail view controller contains details about table view cells.
+1. When you click on a table cell and it takes you to another screen with details about whatever was contained in the cells, you have been sent to the detail view controller. The detail view controller contains details about table view or collection view cells.
 
 2. A segue lets you connect objects with different view controllers so that you can send the user to another view controller AND so that you can pass information to the view controller that is connected. You use it by control + dragging an object to another view controller. You may use it from any object to any view controller.
 
